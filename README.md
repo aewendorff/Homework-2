@@ -1,5 +1,13 @@
 # Homework-2
-Week 2 homework for quantitative methods in ecology and evolution. Edited by Rebekkah, Victoria, and Aubrey
+Week 2 homework for quantitative methods in ecology and evolution. Created by Rebekkah, Victoria, and Aubrey.
+
+Objective 1:
+
+Rebekkah:
+Victoria:
+
+Aubrey:
+I am in the field of aquatic ecology or limnology. For this task, I used a variety of search terms: road salt, chloride, phosphorus, water, urban, Hilary Dugan, and Jacques Finlay. I discovered that 5 out of 10 of the articles I looked at used an open source software (RStudio and GIS), 5 out of 10 used a data repository (Github, Zenodo, FRDR, or EDI), and 5 out of 10 used a public repository for their code (Github, Zenodo, FRDR, or EDI). For the full list of the articles and their corresponding information, use this google sheets link: https://docs.google.com/spreadsheets/d/13p7qnb2ViAvDIRS3vLg7n-C-giYZ4bLPLhDFdLjBFjo/edit?usp=sharing. 
 
 Objective 2:
 
