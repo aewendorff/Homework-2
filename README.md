@@ -3,8 +3,10 @@
 
 
 Objective: exploring open access objectives of contemporary literature. 
-Authors: Aubrey Wendorff, Rebekkah LaBlue, and Victoria Salerno
-Due: September 15, 2025
+
+Authors: Aubrey Wendorff, Rebekkah LaBlue, and Victoria Salerno.
+
+Due: September 15, 2025.
 
 
 ### --- Objective 1 --- ###
